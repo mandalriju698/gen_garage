@@ -25,4 +25,16 @@ Example Use Case:
 Imagine you want to know the sales trends for the last quarter. Instead of writing a complex SQL query, you could simply ask, 
 "What were the sales trends for the last quarter?"
 The generative AI would convert this into the appropriate SQL query, retrieve the data, and then provide a summary or visualization of the results.
-This integration not only streamlines the data analysis process but also empowers users to interact with data more intuitively. 
+This integration not only streamlines the data analysis process but also empowers users to interact with data more intuitively.
+
+
+
+
+for download python jupyter lab in vs code and run the lab server on browser
+
+PS C:\Users\rijmanda\OneDrive - Capgemini\Desktop\python> python -m venv venv
+PS C:\Users\rijmanda\OneDrive - Capgemini\Desktop\python> .\venv\Scripts\activate
+(venv) PS C:\Users\rijmanda\OneDrive - Capgemini\Desktop\python> pip
+
+
+
